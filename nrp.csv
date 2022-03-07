@@ -1,0 +1,22 @@
+"id";"name";"fk_parent_id";"is_directory"
+1;"test file";2;0
+2;"test directory";0;1
+3;"another directory";2;1
+4;"three directories";2;1
+5;"files and stuff";3;0
+6;"files and more";3;0
+7;"more and stuff";3;0
+8;"directory deeper";3;1
+9;"files in deep";8;0
+10;"files here";4;0
+11;"more files here";4;0
+12;"files there";5;0
+13;"more files there";5;0
+14;"another file";8;0
+15;"fdasf";2;0
+16;"fdas";2;1
+17;"fdasfdasf";16;0
+18;"dddd";8;0
+19;"rrr";8;1
+20;"test here at 2";2;0
+21;"moar folders";2;1
